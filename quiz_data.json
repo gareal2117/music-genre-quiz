@@ -1,0 +1,102 @@
+[
+  {
+    "question": "강한 드럼과 일렉 기타가 중심인 장르는?",
+    "options": ["Rock", "Jazz", "Ballad", "Classical"],
+    "answer": "Rock"
+  },
+  {
+    "question": "랩과 비트 중심의 음악 장르는?",
+    "options": ["Hip-hop", "EDM", "Folk", "Opera"],
+    "answer": "Hip-hop"
+  },
+  {
+    "question": "즉흥 연주와 스윙 리듬이 특징인 장르는?",
+    "options": ["Jazz", "Rock", "K-pop", "Punk"],
+    "answer": "Jazz"
+  },
+  {
+    "question": "전자음과 클럽 비트 중심의 장르는?",
+    "options": ["EDM", "Ballad", "Blues", "Country"],
+    "answer": "EDM"
+  },
+  {
+    "question": "감성적인 보컬 중심 음악 장르는?",
+    "options": ["Ballad", "Metal", "Funk", "Reggae"],
+    "answer": "Ballad"
+  },
+  {
+    "question": "12마디 진행과 블루스 스케일이 특징인 장르는?",
+    "options": ["Blues", "Rock", "Hip-hop", "EDM"],
+    "answer": "Blues"
+  },
+  {
+    "question": "강한 왜곡 기타와 빠른 속도가 특징인 장르는?",
+    "options": ["Metal", "Jazz", "Ballad", "Classical"],
+    "answer": "Metal"
+  },
+  {
+    "question": "리듬감이 강하고 춤추기 좋은 장르는?",
+    "options": ["Funk", "Opera", "Folk", "Ballad"],
+    "answer": "Funk"
+  },
+  {
+    "question": "전통 민속 음악 기반 장르는?",
+    "options": ["Folk", "EDM", "Rock", "Hip-hop"],
+    "answer": "Folk"
+  },
+  {
+    "question": "오케스트라 중심 음악 장르는?",
+    "options": ["Classical", "Jazz", "Metal", "Punk"],
+    "answer": "Classical"
+  },
+  {
+    "question": "빠르고 반항적인 메시지가 특징인 장르는?",
+    "options": ["Punk", "Ballad", "EDM", "Opera"],
+    "answer": "Punk"
+  },
+  {
+    "question": "카리브 리듬 기반의 느긋한 음악은?",
+    "options": ["Reggae", "Metal", "Rock", "Jazz"],
+    "answer": "Reggae"
+  },
+  {
+    "question": "드롭 구간이 중요한 전자 음악은?",
+    "options": ["EDM", "Folk", "Blues", "Classical"],
+    "answer": "EDM"
+  },
+  {
+    "question": "한국 대중 음악을 의미하는 장르는?",
+    "options": ["K-pop", "Opera", "Jazz", "Funk"],
+    "answer": "K-pop"
+  },
+  {
+    "question": "성악 중심 극 음악 장르는?",
+    "options": ["Opera", "Hip-hop", "Rock", "EDM"],
+    "answer": "Opera"
+  },
+  {
+    "question": "기타 중심 감성 음악은?",
+    "options": ["Folk", "EDM", "Hip-hop", "Metal"],
+    "answer": "Folk"
+  },
+  {
+    "question": "DJ가 믹싱하는 음악 장르는?",
+    "options": ["EDM", "Blues", "Country", "Jazz"],
+    "answer": "EDM"
+  },
+  {
+    "question": "느리고 감정 표현이 중요한 음악은?",
+    "options": ["Ballad", "Punk", "Funk", "Metal"],
+    "answer": "Ballad"
+  },
+  {
+    "question": "색소폰이 자주 등장하는 장르는?",
+    "options": ["Jazz", "Rock", "EDM", "Hip-hop"],
+    "answer": "Jazz"
+  },
+  {
+    "question": "강한 베이스와 그루브가 특징인 장르는?",
+    "options": ["Funk", "Opera", "Classical", "Ballad"],
+    "answer": "Funk"
+  }
+]
